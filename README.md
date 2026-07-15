@@ -32,4 +32,10 @@ The UCI Heart Disease Dataset was used. It contains 920 patient records from fou
 | ROC-AUC | 92.2% |
 
 ## 💻 How to Run This Project
-1. Install the required libraries:
+1. Clone this repository:
+      https://github.com/Dia0417/heart-disease-prediction.git.
+2. Install the required libraries:
+      pip install streamlit, pandas, scikit-learn , joblib.
+3. Run the app:
+      streamlit run app.py.
+4. The app will open in your browser.
